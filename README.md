@@ -1,2 +1,3 @@
 # Links
 * [JS Neural Networks](https://v2.scrimba.com/neural-networks-in-javascript-c01f)
+* [Exercises](https://www.flynerd.pl/2018/06/500-zadan-w-pythonie-i-kazdym-innym-jezyku.html)
